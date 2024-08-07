@@ -180,9 +180,8 @@ make test-cover
 ## Contributing
 
 `makefile-graph` is hosted on
-[Github](https://pkg.go.dev/github.com/dnaeon/makefile-graph). Please contribute
-by reporting issues, suggesting features or by sending patches using pull
-requests.
+[Github](https://github.com/dnaeon/makefile-graph). Please contribute by
+reporting issues, suggesting features or by sending patches using pull requests.
 
 ## License
 
